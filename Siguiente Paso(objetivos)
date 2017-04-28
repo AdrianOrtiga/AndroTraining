@@ -7,6 +7,10 @@ tiene sobrepeso, o esta canijo)
 Podemos utilizar la de rutina espartana que son 5 días para la fuerte, para la media pillamos 3 días de la misma rutina
 y para la suave 2 días.
 
+2.1 - (Ahora) Crear tablas BBDD para almacenar datos de usuarios, dos tablas, una de acceso y otra para los datos de usuario.
+
+2.2 - Establecer objetivos, para ir viendo la evolución y cambiar rutina si procede.
+
 3- Crear una pantalla para cada rutina, cuando estemos en este punto habrá que debatir como las mostramos.
 
 4- Cuando esten los otros implementados hablaremos de este punto.
