@@ -1,1 +1,18 @@
-estoy con el tutorial
+Comandos Git
+
+git --version = Te muestra la versión de Git instalada en tu Mac actualmente
+git config = le vas a enviar a git opciones o parámetros y ese parámetro para este caso sería:
+git config --global user.name "@EL4400J"
+
+Para revisar que si se configuro Git con este nombre de usuario:
+git config --list
+
+Para agregar mi E-Mail de usuario:
+git config --global user.email "pepito@gmail.com"
+
+Para verificar puedo escribir:
+git config --global user.email y muestra el correo asociado
+git help explica como usar un comando, por ejemplo:
+git help add
+git help commit
+git help push
